@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://praison.github.io"
+title: Praison # site's title
+description: "A website with blog posts and pages" # used by search engines
+
+
+# Build settings
+markdown:           kramdown
+paginate:           20
+paginate_path:      "/posts/page:num/"
+
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-remote-theme]
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea",
+          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
+# theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll # If using as a remote_theme in github
