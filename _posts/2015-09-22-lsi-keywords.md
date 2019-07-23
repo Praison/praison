@@ -4,7 +4,7 @@ post_title: LSI Keywords
 author: praison
 post_excerpt: ""
 layout: post
-permalink: 2015/09/lsi-keywords/
+permalink: /2015/09/lsi-keywords/
 published: true
 post_date: 2015-09-22 15:31:14
 ---
