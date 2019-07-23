@@ -4,8 +4,7 @@ post_title: WordPress Robots.txt Sample
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2015/10/wordpress-robots-txt-sample/
+permalink: /2015/10/wordpress-robots-txt-sample/
 published: true
 post_date: 2015-10-29 10:29:40
 ---

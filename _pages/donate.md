@@ -4,7 +4,7 @@ post_title: Donate
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/donate/
+permalink: /donate/
 published: true
 post_date: 2018-01-14 01:06:45
 ---

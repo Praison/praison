@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/04/get-all-category-ids-in-wordpress-array/
+  /2017/04/get-all-category-ids-in-wordpress-array/
 published: true
 post_date: 2017-04-27 11:32:44
 ---

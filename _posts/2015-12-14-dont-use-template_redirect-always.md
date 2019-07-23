@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/12/dont-use-template_redirect-always/
+  /2015/12/dont-use-template_redirect-always/
 published: true
 post_date: 2015-12-14 16:25:38
 ---

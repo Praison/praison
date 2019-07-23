@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/10/cross-domain-tracking-google-analytics/
+  /2015/10/cross-domain-tracking-google-analytics/
 published: true
 post_date: 2015-10-23 16:04:59
 ---

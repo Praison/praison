@@ -4,8 +4,7 @@ post_title: Conversion Optimisation
 author: praison
 post_excerpt: ""
 layout: page
-permalink: >
-  https://praison.com/conversion-optimisation/
+permalink: /conversion-optimisation/
 published: true
 post_date: 2017-03-07 16:52:34
 ---

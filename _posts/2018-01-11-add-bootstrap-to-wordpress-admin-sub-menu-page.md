@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2018/01/add-bootstrap-to-wordpress-admin-sub-menu-page/
+  /2018/01/add-bootstrap-to-wordpress-admin-sub-menu-page/
 published: true
 post_date: 2018-01-11 18:18:42
 ---

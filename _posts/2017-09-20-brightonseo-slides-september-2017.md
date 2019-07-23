@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/09/brightonseo-slides-september-2017/
+  /2017/09/brightonseo-slides-september-2017/
 published: true
 post_date: 2017-09-20 08:00:44
 ---

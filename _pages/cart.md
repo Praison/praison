@@ -4,7 +4,7 @@ post_title: Cart
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/cart/
+permalink: /cart/
 published: true
 post_date: 2018-01-05 15:01:04
 ---

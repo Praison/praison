@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/03/this-exceeds-githubs-file-size-limit-of-100mb/
+  /2017/03/this-exceeds-githubs-file-size-limit-of-100mb/
 published: true
 post_date: 2017-03-28 08:55:27
 ---

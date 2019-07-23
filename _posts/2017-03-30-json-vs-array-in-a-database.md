@@ -4,8 +4,7 @@ post_title: JSON Vs Array in a Database
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2017/03/json-vs-array-in-a-database/
+permalink: /2017/03/json-vs-array-in-a-database/
 published: true
 post_date: 2017-03-30 11:01:28
 ---

@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/02/wordpress-function-execution-order-on-a-page-load/
+  /2017/02/wordpress-function-execution-order-on-a-page-load/
 published: true
 post_date: 2017-02-24 12:24:12
 ---

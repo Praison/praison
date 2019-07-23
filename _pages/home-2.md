@@ -4,7 +4,7 @@ post_title: Home
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/home-2/
+permalink: /home-2/
 published: true
 post_date: 2018-08-24 08:51:45
 ---

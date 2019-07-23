@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2018/01/synchronising-between-git-and-svn/
+  /2018/01/synchronising-between-git-and-svn/
 published: true
 post_date: 2018-01-10 09:37:20
 ---

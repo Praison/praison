@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/04/post-object-output-in-wordpress/
+  /2017/04/post-object-output-in-wordpress/
 published: true
 post_date: 2017-04-03 08:55:07
 ---

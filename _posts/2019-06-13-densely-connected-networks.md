@@ -4,8 +4,7 @@ post_title: Densely Connected Networks
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2019/06/densely-connected-networks/
+permalink: /2019/06/densely-connected-networks/
 published: true
 post_date: 2019-06-13 10:54:47
 ---

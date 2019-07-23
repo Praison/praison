@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/09/schema-organisation-markup-as-json-ld-code/
+  /2015/09/schema-organisation-markup-as-json-ld-code/
 published: true
 post_date: 2015-09-22 10:25:52
 ---

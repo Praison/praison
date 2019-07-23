@@ -4,8 +4,7 @@ post_title: Python Redirect Path
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2018/08/python-redirect-path/
+permalink: /2018/08/python-redirect-path/
 published: true
 post_date: 2018-08-15 09:05:24
 ---

@@ -4,8 +4,7 @@ post_title: Top Website Design Research
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2016/04/top-website-design-research/
+permalink: /2016/04/top-website-design-research/
 published: true
 post_date: 2016-04-21 15:06:56
 ---

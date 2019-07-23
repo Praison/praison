@@ -4,8 +4,7 @@ post_title: SEO Canonicalisation
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2015/09/seo-canonicalisation/
+permalink: /2015/09/seo-canonicalisation/
 published: true
 post_date: 2015-09-29 10:07:40
 ---

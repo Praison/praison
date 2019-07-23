@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/12/custom-fields-in-bbpress-topic-form/
+  /2015/12/custom-fields-in-bbpress-topic-form/
 published: true
 post_date: 2015-12-11 12:13:42
 ---

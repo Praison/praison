@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/10/permanent-301-redirect-setup-in-htaccess/
+  /2015/10/permanent-301-redirect-setup-in-htaccess/
 published: true
 post_date: 2015-10-29 16:48:55
 ---

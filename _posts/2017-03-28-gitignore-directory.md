@@ -4,8 +4,7 @@ post_title: GitIgnore Directory
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2017/03/gitignore-directory/
+permalink: /2017/03/gitignore-directory/
 published: true
 post_date: 2017-03-28 09:28:37
 ---

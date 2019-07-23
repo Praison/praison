@@ -4,8 +4,7 @@ post_title: SEO Language Tags
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2018/08/seo-language-tags/
+permalink: /2018/08/seo-language-tags/
 published: true
 post_date: 2018-08-29 10:23:14
 ---

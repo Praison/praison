@@ -4,7 +4,7 @@ post_title: Download
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/download/
+permalink: /download/
 published: true
 post_date: 2018-08-24 08:51:46
 ---

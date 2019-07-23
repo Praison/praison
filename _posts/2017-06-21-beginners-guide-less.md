@@ -4,8 +4,7 @@ post_title: Beginners Guide to LESS CSS Preprocessor
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2017/06/beginners-guide-less/
+permalink: /2017/06/beginners-guide-less/
 published: true
 post_date: 2017-06-21 14:26:53
 ---

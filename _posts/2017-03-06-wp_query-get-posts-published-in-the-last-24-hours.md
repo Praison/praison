@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/03/wp_query-get-posts-published-in-the-last-24-hours/
+  /2017/03/wp_query-get-posts-published-in-the-last-24-hours/
 published: true
 post_date: 2017-03-06 17:02:44
 ---

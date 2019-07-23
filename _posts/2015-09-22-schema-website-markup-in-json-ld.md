@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2015/09/schema-website-markup-in-json-ld/
+  /2015/09/schema-website-markup-in-json-ld/
 published: true
 post_date: 2015-09-22 10:47:00
 ---

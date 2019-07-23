@@ -4,8 +4,7 @@ post_title: Remove MySQL Duplicates
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2019/07/remove-mysql-duplicates/
+permalink: /2019/07/remove-mysql-duplicates/
 published: true
 post_date: 2019-07-19 22:33:58
 ---

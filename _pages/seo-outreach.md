@@ -4,7 +4,7 @@ post_title: SEO Outreach
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/seo-outreach/
+permalink: /seo-outreach/
 published: true
 post_date: 2017-03-07 17:01:40
 ---

@@ -5,7 +5,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2018/07/selenium-firefox-webdriver-python-setup/
+  /2018/07/selenium-firefox-webdriver-python-setup/
 published: true
 post_date: 2018-07-06 09:44:08
 ---

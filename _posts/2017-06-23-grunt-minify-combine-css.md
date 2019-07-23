@@ -4,8 +4,7 @@ post_title: Grunt Minify and Combine CSS
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  https://praison.com/2017/06/grunt-minify-combine-css/
+permalink: /2017/06/grunt-minify-combine-css/
 published: true
 post_date: 2017-06-23 15:28:22
 ---

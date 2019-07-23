@@ -7,7 +7,7 @@ author: praison
 post_excerpt: ""
 layout: post
 permalink: >
-  https://praison.com/2017/12/bower-json-dependencies-installation-file/
+  /2017/12/bower-json-dependencies-installation-file/
 published: true
 post_date: 2017-12-21 09:22:54
 ---

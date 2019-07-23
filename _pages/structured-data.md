@@ -4,7 +4,7 @@ post_title: Schema.org Structured Data
 author: praison
 post_excerpt: ""
 layout: page
-permalink: https://praison.com/structured-data/
+permalink: /structured-data/
 published: true
 post_date: 2017-03-07 17:02:19
 ---
