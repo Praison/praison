@@ -1,11 +1,11 @@
 ---
 ID: 981
+permalink: >
+  /2018/07/selenium-firefox-webdriver-python-setup/
 post_title: Selenium Firefox Webdriver Python Setup
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2018/07/selenium-firefox-webdriver-python-setup/
 published: true
 post_date: 2018-07-06 09:44:08
 ---

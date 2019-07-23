@@ -1,11 +1,11 @@
 ---
 ID: 746
+permalink: >
+  /2017/04/post-object-output-in-wordpress/
 post_title: $post Object Output in WordPress
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/04/post-object-output-in-wordpress/
 published: true
 post_date: 2017-04-03 08:55:07
 ---

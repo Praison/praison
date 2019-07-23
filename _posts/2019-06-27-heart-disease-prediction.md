@@ -1,10 +1,10 @@
 ---
 ID: 1131
+permalink: /2019/06/heart-disease-prediction/
 post_title: Heart Disease Prediction
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2019/06/heart-disease-prediction/
 published: true
 post_date: 2019-06-27 13:48:26
 ---

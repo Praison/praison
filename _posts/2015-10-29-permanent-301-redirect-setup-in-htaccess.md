@@ -1,13 +1,13 @@
 ---
 ID: 499
+permalink: >
+  /2015/10/permanent-301-redirect-setup-in-htaccess/
 post_title: >
   Permanent 301 Redirect Setup in
   .htaccess
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/permanent-301-redirect-setup-in-htaccess/
 published: true
 post_date: 2015-10-29 16:48:55
 ---

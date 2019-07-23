@@ -1,10 +1,10 @@
 ---
 ID: 1140
+permalink: /2019/06/breast-cancer-prediction-model/
 post_title: Breast Cancer Prediction Model
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2019/06/breast-cancer-prediction-model/
 published: true
 post_date: 2019-06-26 14:28:15
 ---

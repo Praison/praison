@@ -1,10 +1,10 @@
 ---
 ID: 1101
+permalink: /2019/06/densely-connected-networks/
 post_title: Densely Connected Networks
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2019/06/densely-connected-networks/
 published: true
 post_date: 2019-06-13 10:54:47
 ---

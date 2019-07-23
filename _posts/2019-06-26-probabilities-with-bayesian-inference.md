@@ -1,11 +1,11 @@
 ---
 ID: 1124
+permalink: >
+  /2019/06/probabilities-with-bayesian-inference/
 post_title: Probabilities with Bayesian Inference
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2019/06/probabilities-with-bayesian-inference/
 published: true
 post_date: 2019-06-26 13:56:40
 ---

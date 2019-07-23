@@ -1,13 +1,13 @@
 ---
 ID: 418
+permalink: >
+  /2015/09/schema-organisation-markup-as-json-ld-code/
 post_title: >
   Schema Organisation markup as JSON-LD
   code
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/09/schema-organisation-markup-as-json-ld-code/
 published: true
 post_date: 2015-09-22 10:25:52
 ---

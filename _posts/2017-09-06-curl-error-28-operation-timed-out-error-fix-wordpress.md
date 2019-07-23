@@ -1,11 +1,11 @@
 ---
 ID: 835
+permalink: >
+  /2017/09/curl-error-28-operation-timed-out-error-fix-wordpress/
 post_title: 'cURL error 28: Operation timed out error fix [WordPress]'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/curl-error-28-operation-timed-out-error-fix-wordpress/
 published: true
 post_date: 2017-09-06 11:40:11
 ---

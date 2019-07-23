@@ -1,10 +1,10 @@
 ---
 ID: 955
+permalink: /contact/
 post_title: Contact
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /contact/
 published: true
 post_date: 2018-01-14 21:52:18
 ---

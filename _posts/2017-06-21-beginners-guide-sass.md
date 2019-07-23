@@ -1,10 +1,10 @@
 ---
 ID: 761
+permalink: /2017/06/beginners-guide-sass/
 post_title: Beginners Guide to SASS CSS Preprocessor
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/06/beginners-guide-sass/
 published: true
 post_date: 2017-06-21 13:37:28
 ---

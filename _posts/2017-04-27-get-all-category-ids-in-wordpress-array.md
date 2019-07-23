@@ -1,11 +1,11 @@
 ---
 ID: 754
+permalink: >
+  /2017/04/get-all-category-ids-in-wordpress-array/
 post_title: 'Get all category ids in WordPress [Array]'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/04/get-all-category-ids-in-wordpress-array/
 published: true
 post_date: 2017-04-27 11:32:44
 ---

@@ -1,10 +1,10 @@
 ---
 ID: 958
+permalink: /2018/01/gulpfile-js-example-sass-css/
 post_title: gulpfile.js Example SASS CSS
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2018/01/gulpfile-js-example-sass-css/
 published: true
 post_date: 2018-01-16 11:10:29
 ---

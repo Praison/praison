@@ -1,10 +1,10 @@
 ---
 ID: 1036
+permalink: /features/
 post_title: Features
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /features/
 published: true
 post_date: 2018-08-24 08:51:45
 ---

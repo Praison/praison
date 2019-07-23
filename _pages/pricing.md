@@ -1,10 +1,10 @@
 ---
 ID: 1037
+permalink: /pricing/
 post_title: Pricing
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /pricing/
 published: true
 post_date: 2018-08-24 08:51:45
 ---

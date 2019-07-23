@@ -1,13 +1,13 @@
 ---
 ID: 36
+permalink: >
+  /2017/02/wordpress-function-execution-order-on-a-page-load/
 post_title: >
   WordPress function execution order on a
   Page Load
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/02/wordpress-function-execution-order-on-a-page-load/
 published: true
 post_date: 2017-02-24 12:24:12
 ---

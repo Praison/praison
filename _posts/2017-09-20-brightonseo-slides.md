@@ -1,10 +1,10 @@
 ---
 ID: 846
+permalink: /2017/09/brightonseo-slides/
 post_title: BrightonSEO Slides
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/09/brightonseo-slides/
 published: true
 post_date: 2017-09-20 08:37:03
 ---

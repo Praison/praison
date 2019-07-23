@@ -1,10 +1,10 @@
 ---
 ID: 967
+permalink: /2018/05/javascript-get-child-element/
 post_title: JavaScript get child Element
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2018/05/javascript-get-child-element/
 published: true
 post_date: 2018-05-26 16:59:00
 ---

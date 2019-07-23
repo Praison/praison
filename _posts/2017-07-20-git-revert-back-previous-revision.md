@@ -1,11 +1,11 @@
 ---
 ID: 832
+permalink: >
+  /2017/07/git-revert-back-previous-revision/
 post_title: 'Git : Revert back to Previous Revision'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/07/git-revert-back-previous-revision/
 published: true
 post_date: 2017-07-20 13:57:56
 ---

@@ -1,10 +1,10 @@
 ---
 ID: 870
+permalink: /2017/12/unable-connect-github-com/
 post_title: Unable to connect to github.com
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/12/unable-connect-github-com/
 published: true
 post_date: 2017-12-15 12:26:54
 ---

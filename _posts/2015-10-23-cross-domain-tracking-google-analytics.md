@@ -1,11 +1,11 @@
 ---
 ID: 477
+permalink: >
+  /2015/10/cross-domain-tracking-google-analytics/
 post_title: 'Cross Domain Tracking [ Google Analytics ]'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/10/cross-domain-tracking-google-analytics/
 published: true
 post_date: 2015-10-23 16:04:59
 ---

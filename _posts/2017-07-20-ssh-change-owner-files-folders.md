@@ -1,10 +1,10 @@
 ---
 ID: 827
+permalink: /2017/07/ssh-change-owner-files-folders/
 post_title: 'SSH : Change Owner of files and folders'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/07/ssh-change-owner-files-folders/
 published: true
 post_date: 2017-07-20 13:27:45
 ---

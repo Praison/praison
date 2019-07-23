@@ -1,10 +1,10 @@
 ---
 ID: 655
+permalink: /clickthrough-rate/
 post_title: Clickthrough Rate
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /clickthrough-rate/
 published: true
 post_date: 2017-03-07 16:55:55
 ---

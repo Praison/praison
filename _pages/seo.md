@@ -1,10 +1,10 @@
 ---
 ID: 4
+permalink: /wordpress/plugins/seo/
 post_title: Praison SEO
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /wordpress/plugins/seo/
 published: true
 post_date: 2016-11-30 10:49:48
 ---

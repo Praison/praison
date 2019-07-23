@@ -1,13 +1,13 @@
 ---
 ID: 647
+permalink: >
+  /2017/03/wp_query-get-posts-published-in-the-last-24-hours/
 post_title: >
   WP_Query Get Posts Published in the last
   24 hours
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/03/wp_query-get-posts-published-in-the-last-24-hours/
 published: true
 post_date: 2017-03-06 17:02:44
 ---

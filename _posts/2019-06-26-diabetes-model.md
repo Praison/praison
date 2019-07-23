@@ -1,10 +1,10 @@
 ---
 ID: 1120
+permalink: /2019/06/diabetes-model/
 post_title: Diabetes Model
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2019/06/diabetes-model/
 published: true
 post_date: 2019-06-26 11:56:31
 ---

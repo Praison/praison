@@ -1,11 +1,11 @@
 ---
 ID: 840
+permalink: >
+  /2017/09/brightonseo-slides-september-2017/
 post_title: BrightonSEO Slides September 2017
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/09/brightonseo-slides-september-2017/
 published: true
 post_date: 2017-09-20 08:00:44
 ---

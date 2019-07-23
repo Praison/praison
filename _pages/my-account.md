@@ -1,10 +1,10 @@
 ---
 ID: 893
+permalink: /my-account/
 post_title: My account
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /my-account/
 published: true
 post_date: 2018-01-05 15:01:05
 ---

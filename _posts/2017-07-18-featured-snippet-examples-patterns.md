@@ -1,11 +1,11 @@
 ---
 ID: 801
+permalink: >
+  /2017/07/featured-snippet-examples-patterns/
 post_title: Featured Snippet Examples and Patterns
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/07/featured-snippet-examples-patterns/
 published: true
 post_date: 2017-07-18 11:21:59
 ---

@@ -1,10 +1,10 @@
 ---
 ID: 463
+permalink: /2015/09/seo-for-a-historical-website/
 post_title: SEO for a Historical Website
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2015/09/seo-for-a-historical-website/
 published: true
 post_date: 2015-09-29 16:03:47
 ---

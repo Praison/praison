@@ -1,11 +1,11 @@
 ---
 ID: 737
+permalink: >
+  /2017/03/this-exceeds-githubs-file-size-limit-of-100mb/
 post_title: 'This exceeds GitHub&#8217;s file size limit of 100MB'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/03/this-exceeds-githubs-file-size-limit-of-100mb/
 published: true
 post_date: 2017-03-28 08:55:27
 ---

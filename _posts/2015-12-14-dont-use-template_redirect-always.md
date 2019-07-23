@@ -1,11 +1,11 @@
 ---
 ID: 529
+permalink: >
+  /2015/12/dont-use-template_redirect-always/
 post_title: 'Don&#8217;t use template_redirect always'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/dont-use-template_redirect-always/
 published: true
 post_date: 2015-12-14 16:25:38
 ---

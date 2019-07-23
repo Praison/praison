@@ -1,10 +1,10 @@
 ---
 ID: 693
+permalink: /structured-data/
 post_title: Schema.org Structured Data
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /structured-data/
 published: true
 post_date: 2017-03-07 17:02:19
 ---

@@ -1,13 +1,13 @@
 ---
 ID: 883
+permalink: >
+  /2017/12/bower-json-dependencies-installation-file/
 post_title: >
   Bower JSON Dependencies Installation
   file
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2017/12/bower-json-dependencies-installation-file/
 published: true
 post_date: 2017-12-21 09:22:54
 ---

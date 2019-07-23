@@ -1,10 +1,10 @@
 ---
 ID: 779
+permalink: /2017/06/grunt-minify-combine-css/
 post_title: Grunt Minify and Combine CSS
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/06/grunt-minify-combine-css/
 published: true
 post_date: 2017-06-23 15:28:22
 ---

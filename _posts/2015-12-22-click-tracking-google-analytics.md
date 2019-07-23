@@ -1,11 +1,11 @@
 ---
 ID: 535
+permalink: >
+  /2015/12/click-tracking-google-analytics/
 post_title: 'Click Tracking [Google Analytics]'
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2015/12/click-tracking-google-analytics/
 published: true
 post_date: 2015-12-22 17:22:45
 ---

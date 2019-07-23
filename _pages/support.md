@@ -1,10 +1,10 @@
 ---
 ID: 1038
+permalink: /support/
 post_title: Support
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /support/
 published: true
 post_date: 2018-08-24 08:51:45
 ---

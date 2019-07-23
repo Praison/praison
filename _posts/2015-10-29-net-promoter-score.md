@@ -1,10 +1,10 @@
 ---
 ID: 476
+permalink: /2015/10/net-promoter-score/
 post_title: Net Promoter Score
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2015/10/net-promoter-score/
 published: true
 post_date: 2015-10-29 14:25:14
 ---

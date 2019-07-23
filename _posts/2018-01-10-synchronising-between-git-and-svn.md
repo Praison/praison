@@ -1,11 +1,11 @@
 ---
 ID: 928
+permalink: >
+  /2018/01/synchronising-between-git-and-svn/
 post_title: Synchronising between Git and SVN
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2018/01/synchronising-between-git-and-svn/
 published: true
 post_date: 2018-01-10 09:37:20
 ---

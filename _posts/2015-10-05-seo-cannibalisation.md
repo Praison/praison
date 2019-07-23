@@ -1,10 +1,10 @@
 ---
 ID: 356
+permalink: /2015/10/seo-cannibalisation/
 post_title: SEO Cannibalisation
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2015/10/seo-cannibalisation/
 published: true
 post_date: 2015-10-05 11:09:29
 ---

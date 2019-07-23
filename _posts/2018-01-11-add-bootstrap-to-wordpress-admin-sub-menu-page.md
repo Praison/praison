@@ -1,13 +1,13 @@
 ---
 ID: 940
+permalink: >
+  /2018/01/add-bootstrap-to-wordpress-admin-sub-menu-page/
 post_title: >
   Add Bootstrap to WordPress admin
   sub-menu page
 author: praison
 post_excerpt: ""
 layout: post
-permalink: >
-  /2018/01/add-bootstrap-to-wordpress-admin-sub-menu-page/
 published: true
 post_date: 2018-01-11 18:18:42
 ---

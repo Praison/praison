@@ -1,10 +1,10 @@
 ---
 ID: 750
+permalink: /2017/04/ajax-progress-bar/
 post_title: Ajax Progress Bar
 author: praison
 post_excerpt: ""
 layout: post
-permalink: /2017/04/ajax-progress-bar/
 published: true
 post_date: 2017-04-05 08:56:07
 ---

@@ -1,10 +1,10 @@
 ---
 ID: 1040
+permalink: /footer-template/
 post_title: footer-template
 author: praison
 post_excerpt: ""
 layout: page
-permalink: /footer-template/
 published: true
 post_date: 2018-08-24 08:51:46
 ---
