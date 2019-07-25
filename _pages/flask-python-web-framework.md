@@ -72,7 +72,7 @@ mycursor = mydb.cursor()</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Sqlite Connection</h3>
+<h3>SQLite Connection</h3>
 <!-- /wp:heading -->
 
 <!-- wp:code -->
@@ -102,4 +102,26 @@ from json import dumps
 import mysql.connector
 import json
 from bson import json_util # pip install pymongo</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Prepare Virtual Environment</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>$ virtualenv venv
+$ source venv/bin/activate
+$ pip install flask flask-jsonpify flask-sqlalchemy flask-restful pymongo
+$ pip freeze
+$ sqlite3 data.db</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Run Server</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>$ nohup python server.py &amp; # To Initiate
+$ ps ax | grep server.py # To Analyse
+$ kill [PID] # To Stop</code></pre>
 <!-- /wp:code -->
