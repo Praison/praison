@@ -43,6 +43,21 @@ if __name__ == '__main__':
         return jsonify(result)</code></pre>
 <!-- /wp:code -->
 
+<!-- wp:heading {"level":3} -->
+<h3>MySQL Connection</h3>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>mydb = mysql.connector.connect(
+  host="localhost",
+  user="xxxx",
+  passwd="xxxx",
+  database="data"
+)
+
+mycursor = mydb.cursor()</code></pre>
+<!-- /wp:code -->
+
 <!-- wp:heading -->
 <h2>Integrating Sqlite</h2>
 <!-- /wp:heading -->
@@ -56,11 +71,35 @@ if __name__ == '__main__':
         return jsonify(result)</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:heading -->
-<h2>Connecting</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Sqlite Connection</h3>
 <!-- /wp:heading -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>api.add_resource(DataMySQL, '/datamysql') # Route_MySQL_Data
+<pre class="wp-block-code"><code>db_connect = create_engine('sqlite:///data.db')</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Connecting to Flask</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>app = Flask(__name__)
+api = Api(app)
+api.add_resource(DataMySQL, '/datamysql') # Route_MySQL_Data
 api.add_resource(DataSqlite, '/datasqlite') # Route_Sqlite_Data</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Initialise</h2>
+<!-- /wp:heading -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>from flask import Flask, request, jsonify
+from flask_restful import Resource, Api
+from sqlalchemy import create_engine
+from json import dumps
+import mysql.connector
+import json
+from bson import json_util # pip install pymongo</code></pre>
 <!-- /wp:code -->
